@@ -43,15 +43,3 @@ ROI por canal de marketing
 
 🔍 Conclusões
 A partir da análise, foram identificados os canais de aquisição com maior rentabilidade e foi proposta uma realocação estratégica do orçamento de marketing com base no ROI. A abordagem baseada em dados permitiu insights para melhorar a eficiência das campanhas e acelerar o payback dos investimentos.
-
-
-📂 Estrutura do Projeto
-Copiar
-Editar
-📁 projeto-otimizacao-marketing
-├── 📄 README.md
-├── 📊 marketing_analysis.ipynb
-├── 📁 datasets
-│   ├── visits_log_us.csv
-│   ├── orders_log_us.csv
-│   └── costs_us.csv
